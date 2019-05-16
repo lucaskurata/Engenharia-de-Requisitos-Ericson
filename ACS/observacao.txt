@@ -1,0 +1,11 @@
+AC3 --> CAPACIDADE 2 --> ANOTAR PEDIDO 
+AC4 --> CAPACIDADE 2 --> ANOTAR PEDIDO
+
+AC5 --> CAPACIDADE 3 --> REGISTRAR PAGAMENTO
+
+
+AC6 --> CAPACIDADE 4 --> receber pedido
+
+
+
+AC7 --> CAPACIDADE 5 --> gerar relatório
